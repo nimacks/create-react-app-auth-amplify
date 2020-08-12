@@ -13,7 +13,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-          V36 dev
+          V37 dev
           </p>
           <a
             className="App-link"
